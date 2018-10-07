@@ -1,0 +1,8 @@
+C:\code\AutoFixture.Xunit2.MoqDataAttributes\source\AutoFixture.Xunit2.MoqDataAttributes\bin\Debug\netcoreapp2.1\AutoFixture.Xunit2.MoqDataAttributes.deps.json
+C:\code\AutoFixture.Xunit2.MoqDataAttributes\source\AutoFixture.Xunit2.MoqDataAttributes\bin\Debug\netcoreapp2.1\AutoFixture.Xunit2.MoqDataAttributes.dll
+C:\code\AutoFixture.Xunit2.MoqDataAttributes\source\AutoFixture.Xunit2.MoqDataAttributes\obj\Debug\netcoreapp2.1\AutoFixture.Xunit2.MoqDataAttributes.csproj.CoreCompileInputs.cache
+C:\code\AutoFixture.Xunit2.MoqDataAttributes\source\AutoFixture.Xunit2.MoqDataAttributes\obj\Debug\netcoreapp2.1\AutoFixture.Xunit2.MoqDataAttributes.AssemblyInfoInputs.cache
+C:\code\AutoFixture.Xunit2.MoqDataAttributes\source\AutoFixture.Xunit2.MoqDataAttributes\obj\Debug\netcoreapp2.1\AutoFixture.Xunit2.MoqDataAttributes.AssemblyInfo.cs
+C:\code\AutoFixture.Xunit2.MoqDataAttributes\source\AutoFixture.Xunit2.MoqDataAttributes\bin\Debug\netcoreapp2.1\AutoFixture.Xunit2.MoqDataAttributes.pdb
+C:\code\AutoFixture.Xunit2.MoqDataAttributes\source\AutoFixture.Xunit2.MoqDataAttributes\obj\Debug\netcoreapp2.1\AutoFixture.Xunit2.MoqDataAttributes.dll
+C:\code\AutoFixture.Xunit2.MoqDataAttributes\source\AutoFixture.Xunit2.MoqDataAttributes\obj\Debug\netcoreapp2.1\AutoFixture.Xunit2.MoqDataAttributes.pdb

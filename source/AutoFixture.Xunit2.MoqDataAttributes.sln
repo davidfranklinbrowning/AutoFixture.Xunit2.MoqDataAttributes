@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoFixture.Xunit2.MoqDataAttributes", "AutoFixture.Xunit2.MoqDataAttributes\AutoFixture.Xunit2.MoqDataAttributes.csproj", "{B59E11D2-A294-401E-B09C-CEA875887816}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B59E11D2-A294-401E-B09C-CEA875887816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B59E11D2-A294-401E-B09C-CEA875887816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B59E11D2-A294-401E-B09C-CEA875887816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B59E11D2-A294-401E-B09C-CEA875887816}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {379F4309-D6E6-4633-B0B5-17309AE6BE10}
+	EndGlobalSection
+EndGlobal
